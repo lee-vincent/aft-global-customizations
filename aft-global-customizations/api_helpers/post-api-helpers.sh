@@ -3,4 +3,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-echo "Executing Post-API Helpers"
+echo "Executing Post-API Helpers for global customizations"
